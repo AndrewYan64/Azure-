@@ -1,4 +1,4 @@
-# Azure-
+# Azure Security-
 How secure is Data on Azure?
 
 Security is a need for all significant public cloud administrations, including Microsoft Azure. Microsoft specifically has been laser-centered around this issue with the new development of its Azure Security Center. 
